@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adawfna
+=======
+lalalla
+>>>>>>> Tom
